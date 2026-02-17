@@ -199,19 +199,6 @@ Le projet génère diverses visualisations :
 - **Visualisation de l'arbre de recherche :** Explore le processus de décision MCTS
 - **Évolution temporelle :** Suit l'efficacité de planification au fil des itérations
 
-## 🔬 Contexte de recherche
-
-Cette implémentation est basée sur des recherches de pointe en MCTS et planification de trajectoire robotique :
-
-**Références clés :**
-
-- Kocsis & Szepesvári (2006) - "Bandit Based Monte-Carlo Planning" (ECML)
-- Gelly & Silver (2007) - "Combining Online and Offline Knowledge in UCT" (ICML)
-- Browne et al. (2012) - "A Survey of Monte-Carlo Tree Search Methods" (IEEE TCIAIG)
-- Cazenave (2015) - "Generalized Rapid Action Value Estimation" (IJCAI)
-- Dam et al. (2022) - "Monte-Carlo Robot Path Planning" (IEEE RA-L)
-- Bonanni et al. (2025) - "MCTS with Velocity Obstacles" (AAMAS)
-
 ---
 
 *Pour la documentation technique détaillée, consultez le rapport LaTeX dans le répertoire `rapport/`.*
